@@ -1,4 +1,5 @@
 a=2
 b=3
-c=a+b
-print(c)
+c=67
+D=a+b+c
+print(d)
